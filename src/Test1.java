@@ -1,4 +1,4 @@
 
 public class Test1 {
- private int a;
+ private int b;
 }
